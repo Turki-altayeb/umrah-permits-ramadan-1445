@@ -15,4 +15,4 @@
 
 ## 🖼️ صورة من الداشبورد:
 
-![Dashboard](dashboard.jpeg)
+![Dashboard](Dashboard.jpeg)
